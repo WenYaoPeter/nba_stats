@@ -1,0 +1,8 @@
+Part 3
+1. select * from players where team = 'NYK';
+2. select * from players where team = 'IND' AND age < 26;
+
+Further 1
+1. select * from players where team = 'NYK' AND points > 1000;
+2. select * from players where team = 'CHI' AND points < 300;
+3. select team from players where points <= 2;
